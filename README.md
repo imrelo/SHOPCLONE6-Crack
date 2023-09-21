@@ -7,4 +7,4 @@ Update bị lỗi thì vào link này: http://api.cmsnt.co/shopclone62Fx52sdfg.z
 
 Source bọn nó mà update crack lỗi thì mở issues trên github mình update nhé
 
-Địt mẹ mấy thằng CMSNT gửi source lỗi rồi đòi thêm phí cài đặt. Hỗ trợ thì mở mõm ra là mọi người vẫn chạy bình thường cái đmm
+Địt mẹ mấy thằng CMSNT gửi source lỗi rồi đòi thêm phí cài đặt. Hỗ trợ thì mở mõm ra là người khác vẫn chạy bình thường cái đmm
